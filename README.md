@@ -7,7 +7,7 @@
 * Vi skal bli kjent med både Docker hub og AWS ECR
 * Vi skal også sette opp en CI pipeline for å automatisk bygge et nytt container image på hver push til main branch.
 
-## Lag en fork
+## Lag en fork 
 
 Du må start med å lage en fork av dette repoet til din egen GitHub konto. 
 
